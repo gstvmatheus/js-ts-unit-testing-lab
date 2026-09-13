@@ -1,0 +1,30 @@
+{
+  "name": "js-ts-unit-testing-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstvmatheus/js-ts-unit-testing-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gstvmatheus/js-ts-unit-testing-lab/issues"
+  },
+  "homepage": "https://github.com/gstvmatheus/js-ts-unit-testing-lab#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^22.20.2",
+    "jest": "^30.5.1",
+    "ts-jest": "^29.4.12",
+    "typescript": "^5.3.3"
+  }
+}
